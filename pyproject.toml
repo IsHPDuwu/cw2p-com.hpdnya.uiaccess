@@ -1,6 +1,6 @@
 [project]
-name = "com-ishpdnya-uiaccess"
-version = "1.0.0"
+name = "com-hpdnya-uiaccess"
+version = "1.0.1"
 description = "UIACCESS 服务"
 authors = [
     {name = "IsHPDuwu"},
